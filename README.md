@@ -1,3 +1,14 @@
+**Repo for test exercises for the webinar DevOps from Skillbox.
+- Put the app into docker container
+- Make CI for the application (via Gitlab CI)
+- Create Kubernetes cluster with the app
+
+ABSTRACT.md file contains the abstract of the webinar.
+
+---
+---
+---
+
 [![Flatris](flatris.png)](https://flatris.space/)
 
 [![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris)
